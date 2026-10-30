@@ -12,4 +12,5 @@ httpx
 google_play_scraper
 flask
 tzdata
+gunicorn
 
