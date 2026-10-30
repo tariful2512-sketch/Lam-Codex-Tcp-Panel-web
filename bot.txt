@@ -1,0 +1,5 @@
+uid=0000000000
+password=PASTE_YOUR_ACCOUNT_PASSWORD_HASH_HERE
+nick=LAMCODEX
+region=BD
+autostart=0
